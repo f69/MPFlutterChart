@@ -8,8 +8,8 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  intl: ^0.17.0-nullsafety.1
-  path_provider: ^1.1.0
+  intl: any
+  path_provider: any
   screenshot: ^0.1.1
   path_drawing: ^0.4.1
   image_gallery_saver: ^1.2.2
